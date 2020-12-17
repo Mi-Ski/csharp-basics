@@ -1,0 +1,16 @@
+C:\Users\Skiba\Desktop\c#\reference-value-types\bin\Debug\net5.0\reference-value-types.exe
+C:\Users\Skiba\Desktop\c#\reference-value-types\bin\Debug\net5.0\reference-value-types.deps.json
+C:\Users\Skiba\Desktop\c#\reference-value-types\bin\Debug\net5.0\reference-value-types.runtimeconfig.json
+C:\Users\Skiba\Desktop\c#\reference-value-types\bin\Debug\net5.0\reference-value-types.runtimeconfig.dev.json
+C:\Users\Skiba\Desktop\c#\reference-value-types\bin\Debug\net5.0\reference-value-types.dll
+C:\Users\Skiba\Desktop\c#\reference-value-types\bin\Debug\net5.0\ref\reference-value-types.dll
+C:\Users\Skiba\Desktop\c#\reference-value-types\bin\Debug\net5.0\reference-value-types.pdb
+C:\Users\Skiba\Desktop\c#\reference-value-types\obj\Debug\net5.0\reference-value-types.csprojAssemblyReference.cache
+C:\Users\Skiba\Desktop\c#\reference-value-types\obj\Debug\net5.0\reference-value-types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skiba\Desktop\c#\reference-value-types\obj\Debug\net5.0\reference-value-types.AssemblyInfoInputs.cache
+C:\Users\Skiba\Desktop\c#\reference-value-types\obj\Debug\net5.0\reference-value-types.AssemblyInfo.cs
+C:\Users\Skiba\Desktop\c#\reference-value-types\obj\Debug\net5.0\reference-value-types.csproj.CoreCompileInputs.cache
+C:\Users\Skiba\Desktop\c#\reference-value-types\obj\Debug\net5.0\reference-value-types.dll
+C:\Users\Skiba\Desktop\c#\reference-value-types\obj\Debug\net5.0\ref\reference-value-types.dll
+C:\Users\Skiba\Desktop\c#\reference-value-types\obj\Debug\net5.0\reference-value-types.pdb
+C:\Users\Skiba\Desktop\c#\reference-value-types\obj\Debug\net5.0\reference-value-types.genruntimeconfig.cache
