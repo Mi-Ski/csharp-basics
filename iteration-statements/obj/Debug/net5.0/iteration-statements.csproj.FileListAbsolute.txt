@@ -1,0 +1,16 @@
+C:\Users\Skiba\Desktop\c#\iteration-statements\bin\Debug\net5.0\iteration-statements.exe
+C:\Users\Skiba\Desktop\c#\iteration-statements\bin\Debug\net5.0\iteration-statements.deps.json
+C:\Users\Skiba\Desktop\c#\iteration-statements\bin\Debug\net5.0\iteration-statements.runtimeconfig.json
+C:\Users\Skiba\Desktop\c#\iteration-statements\bin\Debug\net5.0\iteration-statements.runtimeconfig.dev.json
+C:\Users\Skiba\Desktop\c#\iteration-statements\bin\Debug\net5.0\iteration-statements.dll
+C:\Users\Skiba\Desktop\c#\iteration-statements\bin\Debug\net5.0\ref\iteration-statements.dll
+C:\Users\Skiba\Desktop\c#\iteration-statements\bin\Debug\net5.0\iteration-statements.pdb
+C:\Users\Skiba\Desktop\c#\iteration-statements\obj\Debug\net5.0\iteration-statements.csprojAssemblyReference.cache
+C:\Users\Skiba\Desktop\c#\iteration-statements\obj\Debug\net5.0\iteration-statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skiba\Desktop\c#\iteration-statements\obj\Debug\net5.0\iteration-statements.AssemblyInfoInputs.cache
+C:\Users\Skiba\Desktop\c#\iteration-statements\obj\Debug\net5.0\iteration-statements.AssemblyInfo.cs
+C:\Users\Skiba\Desktop\c#\iteration-statements\obj\Debug\net5.0\iteration-statements.csproj.CoreCompileInputs.cache
+C:\Users\Skiba\Desktop\c#\iteration-statements\obj\Debug\net5.0\iteration-statements.dll
+C:\Users\Skiba\Desktop\c#\iteration-statements\obj\Debug\net5.0\ref\iteration-statements.dll
+C:\Users\Skiba\Desktop\c#\iteration-statements\obj\Debug\net5.0\iteration-statements.pdb
+C:\Users\Skiba\Desktop\c#\iteration-statements\obj\Debug\net5.0\iteration-statements.genruntimeconfig.cache
