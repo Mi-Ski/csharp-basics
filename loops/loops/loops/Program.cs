@@ -21,7 +21,7 @@ namespace loops
                }*/
 
             var random = new Random();
-            byte passwordLength = 12;
+            const byte passwordLength = 12;
             char[] buffer = new char[passwordLength];
 
             for (var i = 0; i < passwordLength; i++)
