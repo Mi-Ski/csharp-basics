@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Skiba\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Skiba\\.nuget\\packages"
+    ]
+  }
+}
