@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0UkFjNUUwEwry4OWnsd4IP2xSxVG+WrITfoya2e6aVZnf3bDmI/ISqus4bpjEwQmm8KH3XRsngAzQbwlplsBjA==",
+  "dgSpecHash": "BUMlPn7pujiPO75UdYMoPm7Q6wpMAry5IuCrgd/AllOHJINdKc15GasxNHei7D8rGtAYOjxNX1Oqx7LVzocfBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Skiba\\Desktop\\c#\\testing\\zad4\\zad4\\zad4.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/mi-ski/desktop/csharp-basics/testing/zad4/zad4/zad4.csproj",
+  "expectedPackageFiles": [
+    "/home/mi-ski/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/mi-ski/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/mi-ski/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.10/microsoft.netcore.app.host.linux-x64.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }
