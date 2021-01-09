@@ -1,0 +1,13 @@
+C:\Users\Skiba\Desktop\c#\testing\zaliczenie-michal-skiba\zaliczenie-michal-skiba\bin\Debug\netcoreapp3.1\zaliczenie-michal-skiba.exe
+C:\Users\Skiba\Desktop\c#\testing\zaliczenie-michal-skiba\zaliczenie-michal-skiba\bin\Debug\netcoreapp3.1\zaliczenie-michal-skiba.deps.json
+C:\Users\Skiba\Desktop\c#\testing\zaliczenie-michal-skiba\zaliczenie-michal-skiba\bin\Debug\netcoreapp3.1\zaliczenie-michal-skiba.runtimeconfig.json
+C:\Users\Skiba\Desktop\c#\testing\zaliczenie-michal-skiba\zaliczenie-michal-skiba\bin\Debug\netcoreapp3.1\zaliczenie-michal-skiba.runtimeconfig.dev.json
+C:\Users\Skiba\Desktop\c#\testing\zaliczenie-michal-skiba\zaliczenie-michal-skiba\bin\Debug\netcoreapp3.1\zaliczenie-michal-skiba.dll
+C:\Users\Skiba\Desktop\c#\testing\zaliczenie-michal-skiba\zaliczenie-michal-skiba\bin\Debug\netcoreapp3.1\zaliczenie-michal-skiba.pdb
+C:\Users\Skiba\Desktop\c#\testing\zaliczenie-michal-skiba\zaliczenie-michal-skiba\obj\Debug\netcoreapp3.1\zaliczenie-michal-skiba.csprojAssemblyReference.cache
+C:\Users\Skiba\Desktop\c#\testing\zaliczenie-michal-skiba\zaliczenie-michal-skiba\obj\Debug\netcoreapp3.1\zaliczenie-michal-skiba.AssemblyInfoInputs.cache
+C:\Users\Skiba\Desktop\c#\testing\zaliczenie-michal-skiba\zaliczenie-michal-skiba\obj\Debug\netcoreapp3.1\zaliczenie-michal-skiba.AssemblyInfo.cs
+C:\Users\Skiba\Desktop\c#\testing\zaliczenie-michal-skiba\zaliczenie-michal-skiba\obj\Debug\netcoreapp3.1\zaliczenie-michal-skiba.csproj.CoreCompileInputs.cache
+C:\Users\Skiba\Desktop\c#\testing\zaliczenie-michal-skiba\zaliczenie-michal-skiba\obj\Debug\netcoreapp3.1\zaliczenie-michal-skiba.dll
+C:\Users\Skiba\Desktop\c#\testing\zaliczenie-michal-skiba\zaliczenie-michal-skiba\obj\Debug\netcoreapp3.1\zaliczenie-michal-skiba.pdb
+C:\Users\Skiba\Desktop\c#\testing\zaliczenie-michal-skiba\zaliczenie-michal-skiba\obj\Debug\netcoreapp3.1\zaliczenie-michal-skiba.genruntimeconfig.cache

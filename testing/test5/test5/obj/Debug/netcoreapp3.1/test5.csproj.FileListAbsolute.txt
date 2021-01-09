@@ -1,0 +1,13 @@
+C:\Users\Skiba\Desktop\c#\testing\test5\test5\bin\Debug\netcoreapp3.1\test5.exe
+C:\Users\Skiba\Desktop\c#\testing\test5\test5\bin\Debug\netcoreapp3.1\test5.deps.json
+C:\Users\Skiba\Desktop\c#\testing\test5\test5\bin\Debug\netcoreapp3.1\test5.runtimeconfig.json
+C:\Users\Skiba\Desktop\c#\testing\test5\test5\bin\Debug\netcoreapp3.1\test5.runtimeconfig.dev.json
+C:\Users\Skiba\Desktop\c#\testing\test5\test5\bin\Debug\netcoreapp3.1\test5.dll
+C:\Users\Skiba\Desktop\c#\testing\test5\test5\bin\Debug\netcoreapp3.1\test5.pdb
+C:\Users\Skiba\Desktop\c#\testing\test5\test5\obj\Debug\netcoreapp3.1\test5.csprojAssemblyReference.cache
+C:\Users\Skiba\Desktop\c#\testing\test5\test5\obj\Debug\netcoreapp3.1\test5.AssemblyInfoInputs.cache
+C:\Users\Skiba\Desktop\c#\testing\test5\test5\obj\Debug\netcoreapp3.1\test5.AssemblyInfo.cs
+C:\Users\Skiba\Desktop\c#\testing\test5\test5\obj\Debug\netcoreapp3.1\test5.csproj.CoreCompileInputs.cache
+C:\Users\Skiba\Desktop\c#\testing\test5\test5\obj\Debug\netcoreapp3.1\test5.dll
+C:\Users\Skiba\Desktop\c#\testing\test5\test5\obj\Debug\netcoreapp3.1\test5.pdb
+C:\Users\Skiba\Desktop\c#\testing\test5\test5\obj\Debug\netcoreapp3.1\test5.genruntimeconfig.cache
